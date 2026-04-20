@@ -1,9 +1,7 @@
-# go-yaml Seraph Secure fork
-This is a fork for Seraph Secure that cherrypicks some commits from open PRs, because the original repository was archived.
-
-The original readme (albeit modified for this fork), including the "unmaintained" notice from the original author is below.
-
----
+> [!NOTE]
+> This is a fork for Seraph Secure that cherrypicks some commits from open PRs, because the original repository was archived.
+> 
+> The original readme (albeit modified for this fork), including the "unmaintained" notice from the original author is below.
 
 # THIS PROJECT IS UNMAINTAINED
 
