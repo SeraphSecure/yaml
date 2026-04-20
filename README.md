@@ -1,7 +1,7 @@
 # go-yaml Seraph Secure fork
 This is a fork for Seraph Secure that cherrypicks some commits from open PRs, because the original repository was archived.
 
-The original readme, including the "unmaintained" notice from the original author is below.
+The original readme (albeit modified for this fork), including the "unmaintained" notice from the original author is below.
 
 ---
 
@@ -55,18 +55,16 @@ supported since they're a poor design and are gone in YAML 1.2.
 Installation and usage
 ----------------------
 
-The import path for the package is *gopkg.in/yaml.v3*.
+The import path for the package is *github.com/SeraphSecure/yaml*.
 
 To install it, run:
 
-    go get gopkg.in/yaml.v3
+    go get github.com/SeraphSecure/yaml
 
 API documentation
 -----------------
 
-If opened in a browser, the import path itself leads to the API documentation:
-
-  - [https://gopkg.in/yaml.v3](https://gopkg.in/yaml.v3)
+See: https://pkg.go.dev/github.com/SeraphSecure/yaml
 
 API stability
 -------------
@@ -91,7 +89,7 @@ import (
         "fmt"
         "log"
 
-        "gopkg.in/yaml.v3"
+        "github.com/SeraphSecure/yaml"
 )
 
 var data = `
